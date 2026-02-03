@@ -18,6 +18,37 @@ export const metadata: Metadata = {
   title: "What Will My Job Be With AI?",
   description:
     "Discover how 50 tech jobs will transform due to AI and learn what you can do to get ahead.",
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/favicon.ico", sizes: "32x32" },
+    ],
+    apple: "/icon-192.png",
+  },
+  openGraph: {
+    title: "What Will My Job Be With AI?",
+    description:
+      "Discover how 50 tech jobs will transform due to AI and learn what you can do to get ahead.",
+    url: "https://whatwillmyjobbewithai.com",
+    siteName: "What Will My Job Be With AI?",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "What Will My Job Be With AI? - Discover how 50 tech jobs will transform",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "What Will My Job Be With AI?",
+    description:
+      "Discover how 50 tech jobs will transform due to AI and learn what you can do to get ahead.",
+    images: ["/og-image.png"],
+  },
 };
 
 export default function RootLayout({
