@@ -37,7 +37,7 @@
 
   <!-- Main title -->
   <text x="80" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="bold" fill="white">
-    Where Will My Job Be
+    What Will My Job Be
   </text>
   <text x="80" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="bold" fill="url(#accentGrad)">
     With AI?
