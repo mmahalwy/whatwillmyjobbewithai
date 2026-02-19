@@ -1,34 +1,36 @@
 ---
 title: "Data Analyst"
-transformsTo: "Decision Scientist"
+transformsTo: "Dashboard Babysitter"
 category: "Data & Analytics"
 slug: "data-analyst"
 ---
 
 ## Why This Job Will Transform
 
-The traditional data analyst work of writing SQL queries, creating dashboards, and producing reports is being automated by AI tools that can analyze data and generate visualizations from natural language requests. The technical barriers to getting insights from data are falling.
+You spent weeks learning SQL. You mastered pivot tables. You can make a mean bar chart. Congratulations—now anyone with ChatGPT can type "analyze my data" and get the same insights you would've spent a sprint on.
 
-Data analysts become Decision Scientists who focus on the human elements of data-driven decisions:
+The traditional data analyst work of writing SQL queries, creating dashboards, and producing reports is being eaten alive by AI tools that can do all of this from a casual natural language request. "Show me revenue by region" no longer requires a human intermediary.
 
-- **Framing questions correctly**: Helping stakeholders ask the right questions, not just answering what they ask
-- **Interpreting results**: Providing context and nuance that AI-generated analyses lack
-- **Identifying causation**: Moving beyond correlation to understand what actually drives outcomes
-- **Communicating uncertainty**: Helping decision-makers understand confidence levels and risks
-- **Embedding in decisions**: Ensuring analyses actually influence business decisions
+Remember when you felt special because you could write a GROUP BY clause? Those were simpler times.
 
-Decision Scientists bridge the gap between data capabilities and organizational decision-making.
+Data analysts become Dashboard Babysitters who:
 
-## What You Can Do to Get Ahead
+- **Maintain dashboards no one looks at**: Someone has to update the queries when the schema changes
+- **Explain AI's analysis**: "What Claude is trying to say is..."
+- **Fix data quality issues**: AI can analyze data, but garbage in still equals garbage out
+- **Attend meetings about data**: Someone needs to nod along when executives misinterpret charts
+- **Send weekly reports**: That no one reads but everyone expects
 
-**Learn causal inference.** Understanding techniques for determining causation—A/B testing, instrumental variables, difference-in-differences—becomes more valuable as correlational analysis is automated.
+## What Should Humans Do?
 
-**Develop statistical intuition.** Deep understanding of probability, sampling, and statistical significance helps you interpret AI-generated analyses critically and communicate uncertainty effectively.
+**Learn to ask the right questions.** AI is great at answering questions. It's terrible at knowing which questions matter. This is your moat.
 
-**Build domain expertise.** Knowledge of specific business domains (marketing attribution, product metrics, financial analysis) helps you ask better questions and interpret results in context.
+**Become a data skeptic.** AI will confidently analyze bad data and give you confident wrong answers. Be the person who asks "wait, is this data even right?"
 
-**Practice storytelling with data.** The ability to construct narratives that help stakeholders understand and act on data is uniquely human. Study data visualization and presentation techniques.
+**Master the art of "so what?"** Anyone can pull numbers now. The skill is explaining why those numbers matter and what to do about them.
 
-**Learn experimental design.** Designing experiments that produce reliable results requires understanding of confounding variables, selection bias, and statistical power.
+**Get comfortable with ambiguity.** Real business questions are messy. AI gives clean answers to the wrong questions. You should give useful answers to the right ones.
 
-**Understand decision-making psychology.** Learning how humans actually make decisions—including biases and heuristics—helps you present analyses in ways that lead to better outcomes.
+**Build relationships with stakeholders.** They trust you more than they trust ChatGPT. Probably. Use that trust while you still have it.
+
+**Pivot to analytics engineering.** The people building the data infrastructure are harder to replace than the people querying it. Consider moving upstream.

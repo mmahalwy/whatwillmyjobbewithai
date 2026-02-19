@@ -1,34 +1,38 @@
 ---
 title: "Product Manager"
-transformsTo: "Product Strategist"
+transformsTo: "Chief Vibes Officer"
 category: "Product & Design"
 slug: "product-manager"
 ---
 
 ## Why This Job Will Transform
 
-Product managers coordinate features, write PRDs, analyze data, and manage stakeholders. AI can now draft PRDs, analyze user feedback, and even generate roadmaps. The tactical execution work is being automated.
+Product managers have spent years perfecting the art of saying "let's take this offline" and writing PRDs that no one reads. Now AI can write those PRDs too—and unlike human PMs, AI doesn't need a 30-minute meeting to discuss the meeting about the document.
 
-Product managers become Product Strategists who:
+The tactical PM work—writing specs, analyzing data, creating roadmaps, making Jira tickets—can now be done by AI in seconds. That beautiful PRD you spent three days on? Claude can generate it while you're still opening Google Docs.
 
-- **Define product vision**: Creating compelling visions that inspire teams and guide decisions
-- **Identify market opportunities**: Finding problems worth solving and markets worth entering
-- **Make hard trade-offs**: Choosing what not to build, which is harder than choosing what to build
-- **Build AI into products**: Understanding how AI capabilities can solve user problems
-- **Orchestrate AI development**: Working with AI tools and human teams to ship products faster
+So what's left? Vibes. Pure, unadulterated vibes.
 
-Product Strategists spend less time on documentation and more time on the judgment calls that shape products.
+Product managers become Chief Vibes Officers who:
 
-## What You Can Do to Get Ahead
+- **Attend meetings**: Someone still needs to be in the room where it happens. That's you.
+- **Say "great question"**: Buying time while AI generates your actual answer
+- **Manage up**: Explaining to executives why the AI-generated roadmap is brilliant
+- **Manage down**: Explaining to engineers why the AI-generated requirements make sense (even when they don't)
+- **Own the narrative**: When things go well, it was your vision. When things fail, it was an AI hallucination.
 
-**Develop strategic thinking.** Practice frameworks like Porter's Five Forces, jobs-to-be-done, and competitive analysis. Strategy skills become more valuable as execution becomes faster.
+The PM of tomorrow is less "mini-CEO" and more "professional meeting-haver with AI superpowers."
 
-**Learn about AI capabilities.** Understanding what AI can do helps you identify opportunities to build AI-powered products and features.
+## What Should Humans Do?
 
-**Build customer intuition.** Deep understanding of customer problems, motivations, and behaviors is hard to automate. Invest in customer research and conversations.
+**Lean into the vibes.** Your job is increasingly about alignment, buy-in, and "socializing ideas." These are fancy words for "making people feel good about decisions." Own it.
 
-**Master prioritization frameworks.** The ability to make and defend prioritization decisions becomes more important as teams can build more, faster.
+**Become an AI whisperer.** The PMs who can get AI to generate actually-good PRDs, roadmaps, and analyses will outperform those who can't. Prompt engineering is now a PM skill.
 
-**Develop financial acumen.** Understanding unit economics, business models, and financial metrics helps you build products that are both useful and profitable.
+**Develop strong opinions, loosely held.** AI can generate infinite options. You need taste to pick the right one. This is the human value-add.
 
-**Practice communicating vision.** Inspiring teams and stakeholders requires clear, compelling communication. This human skill becomes more important.
+**Get really good at stakeholder management.** AI can't read the room in a tense executive meeting. You can (hopefully). This is your moat.
+
+**Learn enough technical stuff to call BS.** When engineering says "that's technically impossible," you need to know if they mean it or if they just don't want to do it.
+
+**Accept that everyone thinks they can do your job now.** They're partially right. Your job is to prove them partially wrong.

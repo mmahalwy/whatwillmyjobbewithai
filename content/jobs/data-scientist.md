@@ -1,34 +1,36 @@
 ---
 title: "Data Scientist"
-transformsTo: "Model Strategist"
+transformsTo: "Guy Who Asks Claude to Analyze CSVs"
 category: "Data & Analytics"
 slug: "data-scientist"
 ---
 
 ## Why This Job Will Transform
 
-Much of traditional data science—exploratory analysis, feature engineering, model selection, hyperparameter tuning—can now be automated by AutoML and AI tools. The barrier to building a working model has dropped dramatically.
+Remember when "Data Scientist" was the sexiest job of the 21st century? Well, it's 2024 and turns out that job mostly involved cleaning data in Jupyter notebooks while pretending to do "machine learning." Now AI can do that too—and it doesn't need a PhD.
 
-Data scientists become Model Strategists who focus on the strategic aspects of ML:
+Much of traditional data science—exploratory analysis, feature engineering, model selection, hyperparameter tuning—can now be done by literally anyone who can upload a CSV and type "find insights." Your carefully crafted XGBoost pipeline? Claude can write that in 30 seconds while also explaining it to your non-technical stakeholder.
 
-- **Problem framing**: Identifying which problems are worth solving with ML and which aren't
-- **Model selection at the system level**: Choosing between custom models, foundation models, and rule-based approaches
-- **Evaluation strategy**: Defining what success looks like and how to measure it in production
-- **Responsible AI**: Ensuring models are fair, interpretable, and aligned with organizational values
-- **ML product thinking**: Understanding how models fit into products and user experiences
+The "unicorn" data scientist who knows statistics, coding, AND business? Turns out that unicorn was just three AI tools in a trench coat.
 
-Model Strategists ensure ML investments actually create value, not just impressive accuracy numbers.
+Data scientists become That Guy Who Asks Claude to Analyze CSVs:
 
-## What You Can Do to Get Ahead
+- **Uploading files**: Dragging and dropping datasets into AI chat windows
+- **Prompt crafting**: Typing "find the insights" and hoping for the best
+- **Taking credit**: "My analysis shows..." (your analysis = Claude's analysis)
+- **Explaining AI outputs**: Reading Claude's explanation back to stakeholders, but slower
+- **Defending your job**: "AI can't do what I do" (narrator: it could)
 
-**Learn MLOps and production ML.** Understanding how models behave in production—monitoring, retraining, A/B testing—is increasingly valuable as more models get deployed.
+## What Should Humans Do?
 
-**Develop expertise in foundation models.** Understanding when to fine-tune vs. prompt, how to evaluate LLM outputs, and how to build applications on top of large models is essential.
+**Accept the new hierarchy.** You're not the wizard anymore. You're the wizard's assistant who fetches the data and formats the PowerPoint.
 
-**Build business acumen.** Connecting model performance to business outcomes helps you prioritize work and communicate value to stakeholders.
+**Learn to ask good questions.** The one thing AI can't do (yet) is figure out what questions to ask. Be the person who knows what matters. This is genuinely valuable.
 
-**Master responsible AI practices.** Fairness, interpretability, and safety are growing concerns. Expertise in identifying and mitigating model risks is increasingly important.
+**Develop "AI Output Skepticism."** AI will confidently give you wrong answers with perfect grammar. Someone needs to catch this. Might as well be you.
 
-**Learn to work with unstructured data.** Text, images, and audio are where many interesting ML applications are. Experience with these data types expands your impact.
+**Get really good at storytelling.** AI can find insights. It cannot (yet) sit in a meeting and read the room while presenting those insights. Your soft skills matter more than ever.
 
-**Understand the economics of ML.** Knowing the costs of training, inference, and maintenance helps make better decisions about when ML is the right solution.
+**Pivot to ML Engineering.** The people deploying and maintaining ML systems in production are less replaceable than the people building models in notebooks. Consider the switch.
+
+**Update your title to "AI/ML Specialist."** Same job, buzzier title, better job security. This is only slightly sarcastic advice.

@@ -1,31 +1,35 @@
 ---
 title: "Software Engineer"
-transformsTo: "Systems Designer"
+transformsTo: "Vibe Coder"
 category: "Software Development"
 slug: "software-engineer"
 ---
 
 ## Why This Job Will Transform
 
-The core work of software engineers—writing code, debugging, and implementing features—is increasingly being automated by AI coding assistants. Tools like GitHub Copilot, Claude, and specialized AI agents can now write functional code, identify bugs, and even architect solutions based on natural language descriptions.
+Let's be honest: that mass of spaghetti code you spent three days writing? Claude can do it in 30 seconds. And it probably has fewer bugs.
 
-This doesn't mean software engineers become obsolete. Instead, the role elevates from code production to systems thinking. As AI handles the mechanical aspects of coding, humans become responsible for:
+The core work of software engineers—writing code, debugging, and implementing features—is increasingly being automated by AI coding assistants. Tools like GitHub Copilot, Claude, and specialized AI agents can now write functional code, identify bugs, and even architect solutions based on natural language descriptions. Your years of memorizing syntax? Adorable, but increasingly irrelevant.
 
-- **Defining what to build**: Understanding business problems and translating them into technical requirements that AI can execute
-- **Designing system architectures**: Making decisions about scalability, reliability, and maintainability that require deep understanding of trade-offs
-- **Quality oversight**: Reviewing AI-generated code for security vulnerabilities, edge cases, and alignment with broader system goals
-- **Integration complexity**: Connecting disparate systems, APIs, and services in ways that require understanding of organizational context
+Welcome to the era of vibe coding, where your job is less about writing code and more about vibing with the AI until it produces something that works. You're not a coder anymore—you're a code whisperer.
 
-The software engineer of tomorrow spends less time in the code editor and more time in design documents, architecture reviews, and stakeholder conversations.
+As AI handles the mechanical aspects of coding, humans become responsible for:
 
-## What You Can Do to Get Ahead
+- **Describing what you want**: Typing "make it work but, like, better" and hoping for the best
+- **Reviewing AI slop**: Making sure the AI didn't hallucinate a dependency that doesn't exist
+- **Taking credit**: Presenting AI-generated code in stand-ups like you wrote it yourself
+- **Debugging AI mistakes**: Because when it breaks at 3am, guess who's still on call?
 
-**Develop systems thinking skills.** Study distributed systems, read about architectural patterns, and practice designing systems on paper before implementing them. Resources like "Designing Data-Intensive Applications" by Martin Kleppmann are essential reading.
+The software engineer of tomorrow spends less time in the code editor and more time arguing with ChatGPT about why its solution doesn't actually compile.
 
-**Learn to communicate with AI effectively.** Prompt engineering is becoming a core skill. Practice breaking down complex problems into clear specifications that AI can execute. The engineers who can best direct AI tools will be the most productive.
+## What Should Humans Do?
 
-**Strengthen your domain expertise.** Deep knowledge of a specific industry (fintech, healthcare, e-commerce) becomes more valuable when AI commoditizes general coding skills. The ability to understand business context and translate it into technical solutions is hard to automate.
+**Learn to vibe effectively.** The best engineers will be the ones who can describe problems in ways that AI understands. This is basically tech's version of "talking to plants."
 
-**Practice code review at scale.** As AI generates more code, the ability to quickly review, assess, and improve large volumes of code becomes crucial. Focus on identifying security issues, performance bottlenecks, and architectural problems.
+**Develop taste.** AI can generate infinite code. Someone needs to decide which infinite code is actually good. That's you, hopefully.
 
-**Build your communication skills.** With less time spent coding, more time goes to working with product managers, designers, and stakeholders. Strong written and verbal communication becomes a differentiator.
+**Become a code sommelier.** "Ah yes, this has notes of over-engineering with a hint of premature optimization. I detect Claude 3.5 Sonnet, late 2024 vintage."
+
+**Master the art of taking credit.** When the AI writes beautiful code, that was your prompt engineering. When it writes garbage, the AI was having a bad day.
+
+**Keep your LinkedIn updated.** Just in case.
